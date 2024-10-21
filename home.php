@@ -70,8 +70,8 @@
    ::::::`:::::;'  /  /   `#              
     </pre>
     <p>
-        <a href="index.php"><button>Post a Paste</button></a>
-        <a href="index.php"><button>Read Pastes</button></a>
+        <a href="post.php"><button>Post a Paste</button></a>
+        <a href="readapost.php"><button>Read Pastes</button></a>
     </p>
     <div class="footer-text">MADE BY MY BOT KJ</div> <!-- Footer text -->
 </body>
