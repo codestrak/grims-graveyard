@@ -1,7 +1,7 @@
 
 ## About Me
 
-**Name:** [botted by kj]  
+**Name:** [bot by kj ]  
 **Creator:** Bot by KJ  
 **Project:** Doxbin Copy
 
@@ -13,4 +13,33 @@ Doxing is the act of publicly revealing private information about an individual 
 
 ---
 
-Feel free to customize the sections with your own information and adjust the content as needed! Let me know if you need any further modifications or additional sections.
+Feel free to customize the sections with your own information and adjust the content as needed! Let me know if you need any further modifications or additional sections.\
+
+
+
+
+
+
+
+
+         ...                            
+             ;::::;                           
+           ;::::; :;                          
+         ;:::::'   :;                         
+        ;:::::;     ;.                        
+       ,:::::'       ;           OOO\         
+       ::::::;       ;          OOOOO\        
+       ;:::::;       ;         OOOOOOOO       
+      ,;::::::;     ;'         / OOOOOOO      
+    ;:::::::::`. ,,,;.        /  / DOOOOOO    
+  .';:::::::::::::::::;,     /  /     DOOOO   
+ ,::::::;::::::;;;;::::;,   /  /        DOOO  
+;`::::::`'::::::;;;::::: ,#/  /          DOOO 
+:`:::::::`;::::::;;::: ;::#  /            DOOO
+::`:::::::`;:::::::: ;::::# /              DOO
+`:`:::::::`;:::::: ;::::::#/               DOO
+ :::`:::::::`;; ;:::::::::##                OO
+ ::::`:::::::`;::::::::;:::#                OO
+ `:::::`::::::::::::;'`:;::#                O 
+  `:::::`::::::::;' /  / `:#                  
+   ::::::`:::::;'  /  /   `#              
