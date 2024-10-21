@@ -26,6 +26,16 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             text-align: center;
             padding: 20px;
         }
+        .post-box {
+            border: 1px solid #00ff00;
+            margin: 10px;
+            padding: 10px;
+            width: 500px;
+            height: 200px;
+            overflow-y: scroll;
+            background-color: #fff;
+            color: #000;
+        }
     </style>
 </head>
 <body>
@@ -37,5 +47,13 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         <textarea id="content" name="content" required></textarea><br><br>
         <input type="submit" value="Post">
     </form>
+    <div class="post-box">
+        <?php
+        $posts = file('posts.txt', FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
+        foreach ($posts as $post) {
+            echo nl2br(htmlspecialchars($post)) . "\n";
+        }
+        ?>
+    </div>
 </body>
 </html>
